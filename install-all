@@ -13,15 +13,15 @@ elif [ -x "$(command -v apt)" ] && [ ! -x "$(command -v git)" ]; then
 fi
 
 #
-# Clone cathook
+# Clone polskahook
 #
 
-git clone --depth 1 https://github.com/nullworks/cathook
+git clone --depth 1 https://github.com/MasterCatPL/polskahook
 
 #
-# Run cathook's install all script
+# Run polskahook's install all script
 #
 
-pushd cathook
+pushd polskahook
 bash ./install-all
 popd
