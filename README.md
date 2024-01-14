@@ -1,2 +1,2 @@
-# One-in-all-cathook-install
-Literally just a script that installs cathook and all dependencies in one go.
+# One-in-all-polskahook-install
+Literally just a script that installs polskahook and all dependencies in one go.
